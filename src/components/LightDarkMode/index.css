@@ -1,0 +1,36 @@
+.bgColor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 24px;
+}
+
+.cont {
+  text-align: center;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.dark {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.light {
+  color: #000000;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+
+.button {
+  font-size: 16px;
+  border: none;
+  padding: 16px;
+  border-radius: 8px;
+}
